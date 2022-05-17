@@ -5,11 +5,7 @@ $dz-border: #717386;
 	display: flex;
 	align-items: center;
 	height: 180px;
-	background: $dz-bg;
 	cursor: pointer;
-	color: $dz-border;
-	border: 2px dashed $dz-border;
-	border-radius: 5px;
 	font-size: 16px;
 
 	&.ngx-dz-hovered {
